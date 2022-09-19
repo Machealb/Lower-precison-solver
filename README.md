@@ -1,5 +1,5 @@
 # Lower_precision_solver
- Codes of lower precison solver for discrete linear ill-posed problems.
+ Codes of lower precision solvers for discrete linear ill-posed problems.
  
  These files include the LSQR algorithm implemented using double and single precision for solving some test
  1 or 2 dimensional problems.
